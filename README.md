@@ -7,3 +7,8 @@ How to run this application ?
 2. Install npm
 3. Install JSON-Server (For Details: https://github.com/typicode/json-server)
 4. Install bootstrap (npm install --save bootstrap)
+5. Clone this code
+6. npm install
+7. cd db/ and run json-server --watch db.json
+8. cd restaurant/ and run ng serve
+9. open browser and type http://localhost:4200
